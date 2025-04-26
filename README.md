@@ -23,6 +23,3 @@ In this mobile game, players must avoid falling triangles that descend from the 
 - **Player_Movemment.cs**: Handles player movement and collision detection.
 - **time_ui.cs**: Tracks and displays elapsed time and high scores.
 - **spawnmanager.cs**: Manages the spawning of falling triangles.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
