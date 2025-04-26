@@ -13,11 +13,6 @@ In this mobile game, players must avoid falling triangles that descend from the 
 2. Move left and right to avoid falling triangles.
 3. Try to achieve the highest score by surviving longer.
 
-## Installation
-1. Clone the repository.
-2. Open the project in Unity.
-3. Build and run the game on your mobile device.
-
 ## Scripts Overview
 - **ui.cs**: Manages the game UI and starts the game.
 - **Player_Movemment.cs**: Handles player movement and collision detection.
